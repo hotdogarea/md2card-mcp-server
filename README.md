@@ -2,6 +2,16 @@
 
 将Markdown文档转换为可视化图片卡片的MCP服务器
 
+![image](https://github.com/user-attachments/assets/8300606a-b47d-4d75-8ebf-4859cbe0d7e4)
+
+## 在cline中调用
+![image](https://github.com/user-attachments/assets/b5714383-c200-4cfd-929d-9ba3f077740d)
+
+![image](https://github.com/user-attachments/assets/2bae6e2f-a452-4271-8c8b-dcc249c18810)
+
+![1744488841278_buwmnh](https://github.com/user-attachments/assets/9f144607-ff07-4a4c-9784-9b1405a598ad)
+
+
 ## 功能特性
 - 支持19种主题样式
 - 智能尺寸适配
@@ -23,3 +33,4 @@
   }
 }
 ```
+
