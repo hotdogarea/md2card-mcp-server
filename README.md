@@ -12,6 +12,9 @@
 ![1744488841278_buwmnh](https://github.com/user-attachments/assets/9f144607-ff07-4a4c-9784-9b1405a598ad)
 
 
+## SetUp
+clone项目到本地，找到index.js路径替换到客户端mcp配置文件中
+
 ## 功能特性
 - 支持19种主题样式
 - 智能尺寸适配
@@ -33,4 +36,4 @@
   }
 }
 ```
-
+密钥申请地址：https://admin.mathmind.cn/login?referralCode=REF43267489
