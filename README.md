@@ -11,6 +11,10 @@
 
 ![1744488841278_buwmnh](https://github.com/user-attachments/assets/9f144607-ff07-4a4c-9784-9b1405a598ad)
 
+### 其他风格
+![image](https://github.com/user-attachments/assets/b3584f4e-3895-4665-9a8c-97ad24fa74fe)
+![1744489973426_vgrj2m](https://github.com/user-attachments/assets/6cd76786-357f-4255-bbd6-626f9c2867ac)
+
 
 ## SetUp
 clone项目到本地，找到index.js路径替换到客户端mcp配置文件中
